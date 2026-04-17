@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="educacionit.educait_aut_81534.PracticaM3">
+        <methods>
+          <include name="setUP"/>
+          <include name="irUrl"/>
+          <include name="maxVentana"/>
+          <include name="finSuite"/>
+          <include name="registrarUsuario"/>
+          <include name="finPrueba"/>
+          <include name="CierreNavegador"/>
+        </methods>
+      </class> <!-- educacionit.educait_aut_81534.PracticaM3 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
